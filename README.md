@@ -1,6 +1,8 @@
-## This notebook is using _face_recognition_ library for face recognition.
+## This notebook is using [face_recognition](https://pypi.org/project/face_recognition/) library for face recognition.
 
+### Installing library
+```
+pip install face_recognition
+```
 ### ToDo List
-  - Remove faces
-  - Update faces
-  - Fixing face detection in video
+  - Fixing face recognition in video
